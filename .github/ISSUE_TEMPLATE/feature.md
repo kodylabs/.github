@@ -22,7 +22,9 @@ type: Feature
 
 ## User Stories
 
-1. As a <actor>, I want <feature>, so that <benefit>
+| # | As a | I want | So that | Ticket |
+| --- | --- | --- | --- | --- |
+| 1 | <actor> | <feature> | <benefit> | |
 
 ## Implementation Decisions
 
