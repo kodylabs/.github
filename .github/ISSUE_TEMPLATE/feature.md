@@ -1,39 +1,23 @@
 ---
 name: Feature
-about: A capability the client asked for. It is the parent of its tasks, and the client sees it on the Kodex portal.
+about: One evolution the client recognizes, built in one ticket.
 title: ""
-labels: client
+labels: ""
 type: Feature
 ---
 
 # Client summary
 
-<!-- For the client, in their language: what changes for them, with no technical detail. The Kodex portal shows this section, up to the next heading of level 1. ## and ### are welcome. -->
+<!-- Keep this section only if the client sees this feature on the Kodex portal, and add the client label. In their language, what changes for them, with no technical detail. The Kodex portal shows this section, up to the next heading of level 1. ## and ### are welcome. Delete it for an internal feature. -->
 
-# Specification
+# Context
 
-## Problem Statement
+<!-- Where this feature comes from: the client's request, a decision, a review. What is already decided, and why it exists. -->
 
-<!-- The problem the user faces, from the user's perspective. -->
+# What to build
 
-## Solution
+<!-- The end-to-end behaviour this feature makes work, from the user's perspective, not a layer-by-layer list. -->
 
-<!-- The solution, from the user's perspective. -->
+# Acceptance criteria
 
-## User Stories
-
-| # | As a | I want | So that | Ticket |
-| --- | --- | --- | --- | --- |
-| 1 | <actor> | <feature> | <benefit> | |
-
-## Implementation Decisions
-
-<!-- Modules built or changed, their interfaces, schema changes, API contracts. No file paths. -->
-
-## Testing Decisions
-
-<!-- What makes a good test here, which modules are tested, prior art. -->
-
-## Out of Scope
-
-## Further Notes
+- [ ] 

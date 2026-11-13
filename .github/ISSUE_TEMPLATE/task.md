@@ -1,6 +1,6 @@
 ---
 name: Task
-about: One unit of work, usually a sub-issue of a feature. An agent or a human takes it.
+about: One unit of technical work, usually a sub-issue of an epic. An agent or a human takes it.
 title: ""
 labels: ""
 type: Task
@@ -8,7 +8,7 @@ type: Task
 
 # Context
 
-<!-- Where this task comes from: the framing of a feature, a review, a bug. What is already decided, and why it exists. Set the parent feature and the blocking issues in the sidebar, not here. -->
+<!-- Where this task comes from: the framing of an epic, a review, a bug. What is already decided, and why it exists. Set the parent epic and the blocking issues in the sidebar, not here. -->
 
 # What to build
 
